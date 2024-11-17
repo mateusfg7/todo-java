@@ -1,3 +1,5 @@
+package com.mateusf.todo_java;
+
 import java.util.ArrayList;
 
 public class TodoList {

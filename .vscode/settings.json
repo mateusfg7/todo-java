@@ -1,6 +1,9 @@
 {
   "java.project.sourcePaths": [
-    "."
+    "src"
   ],
-  "java.project.referencedLibraries": []
+  "java.project.referencedLibraries": [],
+  "cSpell.words": [
+    "mateusf"
+  ]
 }

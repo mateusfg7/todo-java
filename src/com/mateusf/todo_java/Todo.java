@@ -1,3 +1,5 @@
+package com.mateusf.todo_java;
+
 public class Todo {
   private String title;
   private String description;

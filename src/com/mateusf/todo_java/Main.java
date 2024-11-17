@@ -1,3 +1,4 @@
+package com.mateusf.todo_java;
 
 import java.util.Scanner;
 
